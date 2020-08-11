@@ -52,7 +52,7 @@ The **Random Forest** was chosen as our final model.
 
 The final technical step in our process was to select a threshold to optimize for both Type 1 and Type 2 errors.
 
-Finally, we evaluated the performance of the model and derived [actionable insights](#actionable%20insights) for our stakeholders.
+Finally, we evaluated the performance of the model and derived [actionable insights](#actionable-insights) for our stakeholders.
 
 ## Methodology
 This project uses Python3 and is documented with Jupyter Notebook.
